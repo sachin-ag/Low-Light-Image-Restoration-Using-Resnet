@@ -4,7 +4,7 @@ This repository aims to improve the quality of images captured in low-light cond
 
 ## Poster
 
-![](https://github.com/sachin-ag/Low-Light-Image-Restoration-Using-Resnet/blob/main/assets/poster.png)
+![](https://github.com/sachin-ag/Low-Light-Image-Restoration-Using-Resnet/blob/main/assets/poster.jpeg)
 
 ## Installation
 
